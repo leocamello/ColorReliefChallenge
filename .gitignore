@@ -1,0 +1,13 @@
+[Ee]xample
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+[Vv]irtualEnv/
+
+# Visual Studio
+*.sln
+*.pyproj
+*.v12.suo
+*.pyproj.user

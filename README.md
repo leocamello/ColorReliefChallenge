@@ -15,7 +15,7 @@ In my development environment I have been using [Conda](http://conda.pydata.org/
 
 #### Environment
 
-As Mapnik is a 32-bit library I created a new environment with Python 2.7 32 bit.
+As [Mapnik](http://mapnik.org/index.html) for Windows is 32-bit I created a new environment with Python 2.7 32 bit.
 
 ```bash
 $ set CONDA_FORCE_32BIT=1

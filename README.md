@@ -107,6 +107,6 @@ Now everything should work!
 
 ### How To Run
 
-./Example/jotunheimen/jotunheimen.tif ./Example/jotunheimen/jotunheimen_color_relief.txt ./Example/jotunheimen/jotunheimen_color_slope.txt ./Example/jotunheimen/output.png
-
-./Example/voo2comgpc_dsm/voo2comgpc_dsm.tif ./Example/voo2comgpc_dsm/voo2comgpc_dsm_color_relief.txt ./Example/voo2comgpc_dsm/voo2comgpc_dsm_color_slope.txt ./Example/voo2comgpc_dsm/output.png
+```bash
+$ python main.py ./Example/jotunheimen/jotunheimen.tif ./Example/jotunheimen/jotunheimen_color_relief.txt ./Example/jotunheimen/jotunheimen_color_slope.txt ./Example/jotunheimen/output.png
+```

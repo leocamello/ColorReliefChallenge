@@ -2,7 +2,7 @@
 
 ## Color Relief + Slope and Shaded Relief
 
-View Jupyter Notebook on [GitHub](https://github.com/leocamello/ColorReliefChallenge/blob/master/ColorReliefChallenge.ipynb) or on [Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/leocamello/ColorReliefChallenge/blob/master/ColorReliefChallenge.ipynb)
+View Jupyter Notebook on [Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/leocamello/ColorReliefChallenge/blob/master/ColorReliefChallenge.ipynb) or on [GitHub](https://github.com/leocamello/ColorReliefChallenge/blob/master/ColorReliefChallenge.ipynb)
 
 ![](jotunheimen_output.png)
 

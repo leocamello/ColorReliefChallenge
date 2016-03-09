@@ -4,7 +4,7 @@
 
 View Jupyter Notebook on [Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/leocamello/ColorReliefChallenge/blob/master/ColorReliefChallenge.ipynb) or on [GitHub](https://github.com/leocamello/ColorReliefChallenge/blob/master/ColorReliefChallenge.ipynb)
 
-![](jotunheimen_output.png)
+<img src="jotunheimen_output.png" alt="" width="550px" height="550px">
 
 ### Libraries
 
